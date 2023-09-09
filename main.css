@@ -1,0 +1,30 @@
+/* For the body properties */
+body {
+    background-color: #E8E8E8; 
+    color: #333333; 
+}
+
+/* For the nav properties */
+nav {
+    height: 60px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/* For the footer properties */
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/* For the #memeImage properties */
+#memeImage {
+    margin-right: 200px;
+}
+
+/* For the header properties */
+header {
+    text-align: center;
+}
